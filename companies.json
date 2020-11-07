@@ -1,0 +1,22 @@
+{
+    "Comp1": {
+        "name": "Comp1",
+        "active": true,
+        "clears through": null
+    },
+    "Comp2": {
+        "name": "Comp2",
+        "active": true,
+        "clears through": null
+    },
+    "Comp3": {
+        "name": "Comp3",
+        "active": true,
+        "clears through": "Comp1"
+    },
+    "Comp4": {
+        "name": "Comp4",
+        "active": true,
+        "clears through": "Comp3"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "Worker1": {
+        "name": "Worker1",
+        "active": true,
+        "pay rates": [
+            [
+                0,
+                "1/1/2020",
+                12.0
+            ]
+        ],
+        "recurring": [],
+        "rent paid to": [
+            [
+                0,
+                null,
+                null,
+                null
+            ]
+        ]
+    },
+    "Worker2": {
+        "name": "Worker2",
+        "active": true,
+        "pay rates": [
+            [
+                0,
+                "1/1/2020",
+                14.0
+            ]
+        ],
+        "recurring": [],
+        "rent paid to": [
+            [
+                0,
+                null,
+                null,
+                null
+            ]
+        ]
+    },
+    "Worker3": {
+        "name": "Worker3",
+        "active": true,
+        "pay rates": [
+            [
+                0,
+                "1/1/2020",
+                16.0
+            ]
+        ],
+        "recurring": [],
+        "rent paid to": [
+            [
+                0,
+                null,
+                null,
+                null
+            ]
+        ]
+    }
+}
